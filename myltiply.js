@@ -1,8 +1,8 @@
 let myVariable = "Bob";
-myVariable =Steve";
+myVariable = "Steve";
 
-let num = 20;
+const num = 20;
 
 function foo() {
-return num;
+  return num;
 }
